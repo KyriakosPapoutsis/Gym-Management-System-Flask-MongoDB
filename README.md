@@ -12,7 +12,7 @@ Department of Digital Systems, University of Piraeus
 
 ---
 
-## 🛠️ Tech Stack
+## 🏗️ Tech Stack
 
 | Layer        | Technology              |
 |--------------|--------------------------|
