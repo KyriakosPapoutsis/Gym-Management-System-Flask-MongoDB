@@ -128,3 +128,7 @@ http://localhost:5000/homeHTML
 <p align="center">
   <img src="/homepage.png" alt="Homepage Screenshot" width="70%">
 </p>
+
+---
+
+Contact: kyriakosiam@outlook.com
