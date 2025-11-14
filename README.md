@@ -1,6 +1,6 @@
 # Gym Management System (Flask + MongoDB)
 
-A Gym Management System built with **Python Flask**, **MongoDB**, and basic HTML/CSS**.  
+A Gym Management System built with **Python Flask**, **MongoDB**, and basic **HTML/CSS**.  
 It includes user management, reservations, services, trainers, and announcements.
 
 Developed by **Kyriakos Papoutsis**
