@@ -126,5 +126,5 @@ http://localhost:5000/homeHTML
 ## 🖼️ Screenshot
 
 <p align="center">
-  <img src="static/home-image1.jpg" alt="Homepage Screenshot" width="70%">
+  <img src="/homepage.png" alt="Homepage Screenshot" width="70%">
 </p>
