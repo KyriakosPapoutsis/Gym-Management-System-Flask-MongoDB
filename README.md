@@ -1,4 +1,4 @@
-# 📘 Gym Management System (Flask + MongoDB)
+# Gym Management System (Flask + MongoDB)
 
 A Gym Management System built with **Python Flask**, **MongoDB**, and basic HTML/CSS**.  
 It includes user management, reservations, services, trainers, and announcements.
@@ -54,6 +54,8 @@ git clone https://github.com/KyriakosPapoutsis/Gym-Management-System-Flask-Mongo
 cd Gym-Management-System-Flask-MongoDB/my_files
 ```
 
+---
+
 ### **3️⃣ (Optional) Create a Virtual Environment**
 
 This step is optional but recommended to keep project dependencies isolated.
@@ -71,7 +73,9 @@ source venv/bin/activate
 
 If you skip this step, just make sure you have Python 3.10+ installed on your machine.
 
-### **4️⃣ Install Python Dependencies
+---
+
+### **4️⃣ Install Python Dependencies**
 
 If you created a virtual environment, ensure it is activated.
 
@@ -79,7 +83,10 @@ Install all required packages:
 ```bash
 pip install -r ../requirements.txt
 ```
-### **5️⃣ Load Initial MongoDB Data
+
+---
+
+### **5️⃣ Load Initial MongoDB Data**
 Using MongoDB Compass:
 
 Open Compass
@@ -97,8 +104,9 @@ Required collections:
 - announcements
 - reservations
 
-  
-### **6️⃣ Run the Application
+---
+
+### **6️⃣ Run the Application**
 
 From the my_files directory:
 ```bash
@@ -113,7 +121,9 @@ Open the homepage:
 http://localhost:5000/homeHTML
 ```
 
-##🖼️ Screenshot</h2>
+---
+
+## 🖼️ Screenshot
 
 <p align="center">
   <img src="static/home-image1.jpg" alt="Homepage Screenshot" width="70%">
